@@ -4,11 +4,11 @@ um mesmo curso. Para participar da equipe, basta ao aluno estar regularmente
 matriculado.
 No sentido de atender essa demanda do DCE, você deverá implementar um sistema que
 permita manter um cadastro das equipes participantes. Para tanto, implemente as classes
--Curso e Estudante, descritas a seguir.
+- Curso e Estudante, descritas a seguir.
 Curso;
 Atributos: sigla, nome;
 Estudante.
--Atributos: nroMatric, nome, Curso.
+- Atributos: nroMatric, nome, Curso.
 Implemente essas classes com construtores contendo dois e três atributos,
 respectivamente. Em seguida, utilize o código a seguir para popular duas listas com
 instâncias de cursos e estudantes (este código deve ficar no controlador apropriado).
